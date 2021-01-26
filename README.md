@@ -13,4 +13,4 @@ Dependencies:</br>
 -Trinity assembler</br>
 -hmm profiles of mitochondrial proteins from mitoconstrictor</br>
 -cm profiles of mitochondrial rRNA from mitoconstrictor</br>
--cm profile of rRNA subunits from Rfam</br>
+-cm profiles of rRNA subunits from Rfam</br>
