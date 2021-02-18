@@ -7,6 +7,7 @@ Dependencies:</br>
 -local copies of Pfam, Panther and UniRef90 databases</br>
 -hmmer</br>
 -infernal</br>
+-MMseqs2</br>
 -wise2</br>
 -NCBI taxon database</br>
 -InterPro mapping file</br>
