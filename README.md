@@ -1,7 +1,7 @@
 # tritoconstrictor
 
 Transcriptome annotation and filtering pipeline written in python and shell.</br>
-Dependencies:</br>
+Dependencies:<br>
 -Python 2.7</br>
 -Biopython</br>
 -local copies of Pfam, Panther and UniRef90 databases</br>
