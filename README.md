@@ -21,7 +21,8 @@ Usage:</br>
 -Prepare your assembly in fasta format </br>
 -run database searches (see dbsearch.sh shell script for an example)</br>
 -convert results to gff format (see the two prep_gff scripts)</br>
--map the raw reads back at your assembly and prepare abundance estimate for each contig</br>
+-prepare abundance estimate for each contig</br>
 -run the main annotation script:</br>
   <i>python parse_gffn.py </i> filename</br>
+  where filename stands for your assembly</br>
   
