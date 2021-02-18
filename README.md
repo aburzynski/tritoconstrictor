@@ -16,3 +16,12 @@ Dependencies:</br>
 -hmm profiles of mitochondrial proteins from mitoconstrictor</br>
 -cm profiles of mitochondrial rRNA from mitoconstrictor</br>
 -cm profiles of rRNA subunits from Rfam</br>
+</br>
+Usage:</br>
+-Prepare your assembly in fasta format </br>
+-run database searches (see dbsearch.sh shell script for an example)</br>
+-convert results to gff format (see the two prep_gff scripts)</br>
+-map the raw reads back at your assembly and prepare abundance estimate for each contig</br>
+-run the main annotation script:</br>
+  <i>python parse_gffn.py </i> filename</br>
+  
