@@ -23,6 +23,6 @@ Usage:</br>
 -convert results to gff format (see the two prep_gff scripts)</br>
 -prepare abundance estimate for each contig</br>
 -run the main annotation script:</br>
-  <i>python parse_gffn.py </i> filename</br>
+  <i>python parse_gff3n.py </i> filename</br>
   where filename stands for your assembly</br>
   
